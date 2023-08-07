@@ -1,5 +1,6 @@
-yo
-hello world
+superuser admin
+password  admin
+
 
 username testuser
 password a@d$mb0i
