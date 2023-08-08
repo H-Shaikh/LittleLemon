@@ -4,8 +4,9 @@
 
 
 username: testuser
+
 password: a@d$mb0i
-email :   
+
 token :   938c7a01a5af3ee913e0b921015677106bd112e4
 
 # djoser endpoints
