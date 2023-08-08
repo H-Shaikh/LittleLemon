@@ -1,4 +1,4 @@
 # LittleLemon
 
 /restaurant/menu/
-djoser endpoints
+# djoser endpoints
